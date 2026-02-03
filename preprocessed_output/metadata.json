@@ -1,0 +1,255 @@
+{
+  "video_path": "C:\\Users\\revan\\Downloads\\sampleVideoAd.mp4",
+  "duration_sec": 22.856,
+  "original_fps": 29.97,
+  "sample_fps": 2.0,
+  "frames": [
+    {
+      "frame_id": 0,
+      "timestamp_sec": 0.0,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00000.png"
+    },
+    {
+      "frame_id": 1,
+      "timestamp_sec": 0.467,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00001.png"
+    },
+    {
+      "frame_id": 2,
+      "timestamp_sec": 0.934,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00002.png"
+    },
+    {
+      "frame_id": 3,
+      "timestamp_sec": 1.401,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00003.png"
+    },
+    {
+      "frame_id": 4,
+      "timestamp_sec": 1.869,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00004.png"
+    },
+    {
+      "frame_id": 5,
+      "timestamp_sec": 2.336,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00005.png"
+    },
+    {
+      "frame_id": 6,
+      "timestamp_sec": 2.803,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00006.png"
+    },
+    {
+      "frame_id": 7,
+      "timestamp_sec": 3.27,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00007.png"
+    },
+    {
+      "frame_id": 8,
+      "timestamp_sec": 3.737,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00008.png"
+    },
+    {
+      "frame_id": 9,
+      "timestamp_sec": 4.204,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00009.png"
+    },
+    {
+      "frame_id": 10,
+      "timestamp_sec": 4.671,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00010.png"
+    },
+    {
+      "frame_id": 11,
+      "timestamp_sec": 5.138,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00011.png"
+    },
+    {
+      "frame_id": 12,
+      "timestamp_sec": 5.606,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00012.png"
+    },
+    {
+      "frame_id": 13,
+      "timestamp_sec": 6.073,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00013.png"
+    },
+    {
+      "frame_id": 14,
+      "timestamp_sec": 6.54,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00014.png"
+    },
+    {
+      "frame_id": 15,
+      "timestamp_sec": 7.007,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00015.png"
+    },
+    {
+      "frame_id": 16,
+      "timestamp_sec": 7.474,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00016.png"
+    },
+    {
+      "frame_id": 17,
+      "timestamp_sec": 7.941,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00017.png"
+    },
+    {
+      "frame_id": 18,
+      "timestamp_sec": 8.408,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00018.png"
+    },
+    {
+      "frame_id": 19,
+      "timestamp_sec": 8.876,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00019.png"
+    },
+    {
+      "frame_id": 20,
+      "timestamp_sec": 9.343,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00020.png"
+    },
+    {
+      "frame_id": 21,
+      "timestamp_sec": 9.81,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00021.png"
+    },
+    {
+      "frame_id": 22,
+      "timestamp_sec": 10.277,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00022.png"
+    },
+    {
+      "frame_id": 23,
+      "timestamp_sec": 10.744,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00023.png"
+    },
+    {
+      "frame_id": 24,
+      "timestamp_sec": 11.211,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00024.png"
+    },
+    {
+      "frame_id": 25,
+      "timestamp_sec": 11.678,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00025.png"
+    },
+    {
+      "frame_id": 26,
+      "timestamp_sec": 12.145,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00026.png"
+    },
+    {
+      "frame_id": 27,
+      "timestamp_sec": 12.613,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00027.png"
+    },
+    {
+      "frame_id": 28,
+      "timestamp_sec": 13.08,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00028.png"
+    },
+    {
+      "frame_id": 29,
+      "timestamp_sec": 13.547,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00029.png"
+    },
+    {
+      "frame_id": 30,
+      "timestamp_sec": 14.014,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00030.png"
+    },
+    {
+      "frame_id": 31,
+      "timestamp_sec": 14.481,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00031.png"
+    },
+    {
+      "frame_id": 32,
+      "timestamp_sec": 14.948,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00032.png"
+    },
+    {
+      "frame_id": 33,
+      "timestamp_sec": 15.415,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00033.png"
+    },
+    {
+      "frame_id": 34,
+      "timestamp_sec": 15.883,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00034.png"
+    },
+    {
+      "frame_id": 35,
+      "timestamp_sec": 16.35,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00035.png"
+    },
+    {
+      "frame_id": 36,
+      "timestamp_sec": 16.817,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00036.png"
+    },
+    {
+      "frame_id": 37,
+      "timestamp_sec": 17.284,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00037.png"
+    },
+    {
+      "frame_id": 38,
+      "timestamp_sec": 17.751,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00038.png"
+    },
+    {
+      "frame_id": 39,
+      "timestamp_sec": 18.218,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00039.png"
+    },
+    {
+      "frame_id": 40,
+      "timestamp_sec": 18.685,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00040.png"
+    },
+    {
+      "frame_id": 41,
+      "timestamp_sec": 19.152,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00041.png"
+    },
+    {
+      "frame_id": 42,
+      "timestamp_sec": 19.62,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00042.png"
+    },
+    {
+      "frame_id": 43,
+      "timestamp_sec": 20.087,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00043.png"
+    },
+    {
+      "frame_id": 44,
+      "timestamp_sec": 20.554,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00044.png"
+    },
+    {
+      "frame_id": 45,
+      "timestamp_sec": 21.021,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00045.png"
+    },
+    {
+      "frame_id": 46,
+      "timestamp_sec": 21.488,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00046.png"
+    },
+    {
+      "frame_id": 47,
+      "timestamp_sec": 21.955,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00047.png"
+    },
+    {
+      "frame_id": 48,
+      "timestamp_sec": 22.422,
+      "file_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\frames\\frame_00048.png"
+    }
+  ],
+  "audio_path": "C:\\Users\\revan\\Downloads\\Projects\\IPLab\\Video-Compliance-Framework\\preprocessed_output\\audio\\audio.wav",
+  "metadata_path": ""
+}
